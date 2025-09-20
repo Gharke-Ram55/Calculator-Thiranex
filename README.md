@@ -14,4 +14,4 @@ A simple console-based calculator built in Python.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Calculator.git
+   git clone https://github.com/Gharke-Ram55/Calculator-Thiranex.git
